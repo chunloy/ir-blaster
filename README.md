@@ -1,4 +1,4 @@
-# WIFI Web and Voice Remote using an ESP8266
+# WiFi Web and Voice Remote using an ESP8266
 
 ![tvremote_final-1170x658 2](https://user-images.githubusercontent.com/101907461/198857975-40d67592-6b41-48d0-960b-b086a7230496.jpg)
 
