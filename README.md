@@ -4,7 +4,7 @@
 
 My journey into web development started with a need to create a device with the ability to control a TV with modern technology. The device functions like a physical remote, but instead, infrared signals (IR) are transmitted using a web remote from a smartphone or by voice commands using a Google Home.
 
-## Libraries Used
+## Libraries
 
 - assert
 - IRrecv
@@ -14,7 +14,7 @@ My journey into web development started with a need to create a device with the 
 - IRtext
 - IRutils
 
-## The Hardware
+## Hardware
 
 - Adafruit Feather HUZZAH with ESP8266 WIFI and header pins
 - Featherwing protoboard and breadboard
